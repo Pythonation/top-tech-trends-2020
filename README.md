@@ -1,7 +1,7 @@
 # top-tech-trends-2020
 5 Key Tech Trends of 2020 .
 
-[![](http://img.youtube.com/vi/sVau5qXKeFY/0.jpg)](http://www.youtube.com/watch?v=sVau5qXKeFY "")
+[![](http://img.youtube.com/vi/X8gSXeaVBg0/0.jpg)](http://www.youtube.com/watch?v=X8gSXeaVBg0 "")
 
 # References:
 + [Blockchain forecast - pdf ](https://www.deep-analysis.net/wp-content/uploads/2019/08/DA-190812-Ent-Blockchain-forecast.pdf)
